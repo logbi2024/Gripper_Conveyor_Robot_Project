@@ -9,7 +9,7 @@ Il est conçu pour l'apprentissage de la robotique, de l'automatisation, et de l
 
 ## Vidéo de démonstration
 
-[![Gripper Conveyor Robot](https://www.youtube.com/watch?v=fZicDu6lqZ8)
+[![Gripper Conveyor Robot](https://img.youtube.com/vi/TON_CODE_YOUTUBE/maxresdefault.jpg)](https://www.youtube.com/watch?v=fZicDu6lqZ8&t=24s)
 
 ## Aperçu du projet
 
